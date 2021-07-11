@@ -1,57 +1,53 @@
 <!DOCTYPE html>
 <html lang="ru">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Web Studio</title>
 </head>
-
 <body>
     <header>
         <a href="#"><span>Web</span>Studio</a>
         <nav>
-            <ul>
-                <li>
-                    <a href="#">Студия</a>
-                </li>
-                <li>
-                    <a href="#">Портфолио</a>
-                </li>
-                <li>
-                    <a href="#">Контакты</a>
-                </li>
-            </ul>
+        <ul>
+            <li>
+            <a href="#">Студия</a>
+            </li>
+            <li>
+            <a href="#">Портфолио</a>
+            </li>
+            <li>
+            <a href="#">Контакты</a>
+            </li>
+        </ul>
         </nav>
         <ul>
             <li>
                 <a href="mailto:info@devstudio.com">info@devstudio.com</a>
             </li>
             <li>
-                <a href="tel:+380961111111">+38 096 111 11 11</a>
+                <a hreb="tel:+380961111111">+38 096 111 11 11</a>
             </li>
         </ul>
         <!--Герой-->
         <h1>Эффективные решения для вашего бизнеса</h1>
-        <form>
-        <button>Заказать услугу</button>
-        </form>
+        <a href="#">Заказать услугу</a>
     </header>
 
     <main>
         <!--Преимущества-->
         <section>
-            <img src="./images/Group1.jpg" alt="спутниковая антенна" width="270" height="120">
+            <img src="./images/Group 1.jpg" alt="спутниковая антенна" width="270" height="120">
             <p>Внимание к деталям</p>
             <p>Идейные соображения, а также начало повседневной работы по формированию позиции.</p>
-            <img src="./images/Group2.jpg" alt="часы" width="270" height="120">
+            <img src="./images/Group 2.jpg" alt="часы" width="270" height="120">
             <p>Пунктуальность</p>
             <p>Задача организации, в особенности же рамки и место обучения кадров влечет за собой.</p>
-            <img src="./images/Group3.jpg" alt="диаграма" width="270" height="120">
+            <img src="./images/Group 3.jpg" alt="диаграма" width="270" height="120">
             <p>Планирование</p>
             <p>Равным образом консультация с широким активом в значительной степени обуславливает.</p>
-            <img src="./images/Group4.jpg" alt="астронавт" width="270" height="120">
+            <img src="./images/Group 4.jpg" alt="астронавт" width="270" height="120">
             <p>Современные технологии</p>
             <p>Значимость этих проблем настолько очевидна, что реализация плановых заданий.</p>
         </section>
@@ -59,15 +55,15 @@
         <section>
             <h2>Чем мы занимаемся</h2>
             <ul>
-                <li>
-                    <a href="#"> <img src="./images/box1.jpg" alt="рабочий стол" width="370"></a>
-                </li>
-                <li>
-                    <a href="#"> <img src="./images/img.jpg" alt="ноутбук" width="370"></a>
-                </li>
-                <li>
-                    <a href="#"> <img src="./images/box3.jpg" alt="планшет" width="370"></a>
-                </li>
+            <li>
+            <a href="#"> <img src="./images/box 1.jpg" alt="рабочий стол" width="370"></a>
+            </li>
+            <li>
+            <a href="#"> <img src="./images/img.jpg" alt="ноутбук" width="370"></a>
+            </li>
+            <li>
+            <a href="#"> <img src="./images/box 3.jpg" alt="планшет" width="370"></a>
+            </li>
             </ul>
         </section>
         <!--Сотрудники-->
@@ -78,13 +74,13 @@
             <p lang="en">Product Designer</p>
             <ul>
                 <li>
-                    <a href="#"><img src="./images/instagram2.svg" alt="Instagram" width="20" height="20"></a>
+                    <a href="#"><img src="./images/instagram 2.svg" alt="Instagram" width="20" height="20"></a>
                 </li>
                 <li>
-                    <a href="#"><img src="./images/twitter1.svg" alt="Twitter" width="20" height="20"></a>
+                    <a href="#"><img src="./images/twitter 1.svg" alt="Twitter" width="20" height="20"></a>
                 </li>
                 <li>
-                    <a href="#"><img src="./images/facebook1.svg" alt="Facebook" width="20" height="20"></a>
+                    <a href="#"><img src="./images/facebook 1.svg" alt="Facebook" width="20" height="20"></a>
                 </li>
                 <li>
                     <a href="#"><img src="./images/Ellipse.svg" alt="linkedIn" width="20" height="20"></a>
@@ -99,10 +95,10 @@
                     <a href="#"><img src="./images/Ellipse-2.svg" alt="Instagram" width="20" height="20"></a>
                 </li>
                 <li>
-                    <a href="#"><img src="./images/twitter1.svg" alt="Twitter" width="20" height="20"></a>
+                    <a href="#"><img src="./images/twitter 1.svg" alt="Twitter" width="20" height="20"></a>
                 </li>
                 <li>
-                    <a href="#"><img src="./images/facebook1.svg" alt="Facebook" width="20" height="20"></a>
+                    <a href="#"><img src="./images/facebook 1.svg" alt="Facebook" width="20" height="20"></a>
                 </li>
                 <li>
                     <a href="#"><img src="./images/Ellipse.svg" alt="linkedIn" width="20" height="20"></a>
@@ -117,10 +113,10 @@
                     <a href="#"><img src="./images/Ellipse-2.svg" alt="Instagram" width="20" height="20"></a>
                 </li>
                 <li>
-                    <a href="#"><img src="./images/twitter1.svg" alt="Twitter" width="20" height="20"></a>
+                    <a href="#"><img src="./images/twitter 1.svg" alt="Twitter" width="20" height="20"></a>
                 </li>
                 <li>
-                    <a href="#"><img src="./images/facebook1.svg" alt="Facebook" width="20" height="20"></a>
+                    <a href="#"><img src="./images/facebook 1.svg" alt="Facebook" width="20" height="20"></a>
                 </li>
                 <li>
                     <a href="#"><img src="./images/Ellipse.svg" alt="linkedIn" width="20" height="20"></a>
@@ -135,10 +131,10 @@
                     <a href="#"><img src="./images/Ellipse-2.svg" alt="Instagram" width="20" height="20"></a>
                 </li>
                 <li>
-                    <a href="#"><img src="./images/twitter1.svg" alt="Twitter" width="20" height="20"></a>
+                    <a href="#"><img src="./images/twitter 1.svg" alt="Twitter" width="20" height="20"></a>
                 </li>
                 <li>
-                    <a href="#"><img src="./images/facebook1.svg" alt="Facebook" width="20" height="20"></a>
+                    <a href="#"><img src="./images/facebook 1.svg" alt="Facebook" width="20" height="20"></a>
                 </li>
                 <li>
                     <a href="#"><img src="./images/Ellipse.svg" alt="linkedIn" width="20" height="20"></a>
@@ -152,22 +148,22 @@
             <h2>Постоянные клиенты</h2>
             <ul>
                 <li>
-                    <a href="#"><img src="./images/Client1.svg" alt="Логотип" width="170" height="92"></a>
+                    <a href="#"><img src="./images/Client 1.svg" alt="Логотип" width="170" height="92"></a>
                 </li>
                 <li>
-                    <a href="#"><img src="./images/Client2.svg" alt="Логотип" width="170" height="92"></a>
+                    <a href="#"><img src="./images/Client 2.svg" alt="Логотип" width="170" height="92"></a>
                 </li>
                 <li>
-                    <a href="#"><img src="./images/Client3.svg" alt="Логотип" width="170" height="92"></a>
+                    <a href="#"><img src="./images/Client 3.svg" alt="Логотип" width="170" height="92"></a>
                 </li>
                 <li>
-                    <a href="#"><img src="./images/Client4.svg" alt="Логотип" width="170" height="92"></a>
+                    <a href="#"><img src="./images/Client 4.svg" alt="Логотип" width="170" height="92"></a>
                 </li>
                 <li>
-                    <a href="#"><img src="./images/Client5.svg" alt="Логотип" width="170" height="92"></a>
+                    <a href="#"><img src="./images/Client 5.svg" alt="Логотип" width="170" height="92"></a>
                 </li>
                 <li>
-                    <a href="#"><img src="./images/Client6.svg" alt="Логотип" width="170" height="92"></a>
+                    <a href="#"><img src="./images/Client 6.svg" alt="Логотип" width="170" height="92"></a>
                 </li>
             </ul>
         </section>
@@ -177,35 +173,30 @@
 
         <p><span>Web</span>Studio</p>
         <address>
-            г. Киев, пр-т Леси Украинки, 26
+        г. Киев, пр-т Леси Украинки, 26
         </address>
-        <ul>
-        <li>
-            <a href="mailto:info@devstudio.com">info@devstudio.com</a>
-        </li>
-        <li>
-            <a href="tel:+380961111111">+38 096 111 11 11</a>
-        </li>
+        <ul></ul>
+        <li><a href="mailto:info@devstudio.com">info@devstudio.com</a></li>
+        <li><a hreb="tel:+380961111111">+38 096 111 11 11</a></li>
         </ul>
-
+        
         <p>Присоединяйтесь</p>
-        <ul>
-            <li>
-                <a href="#"><img src="./images/Ellipse-3.svg" alt="Instagram" width="44" height="44"></a>
-            </li>
-            <li>
-                <a href="#"><img src="./images/Ellipse-4.svg" alt="Twitter" width="44" height="44"></a>
-            </li>
-            <li>
-                <a href="#"><img src="./images/Ellipse-5.svg" alt="Facebook" width="44" height="44"></a>
-            </li>
-            <li>
-                <a href="#"><img src="./images/Ellipse-6.svg" alt="LinkedIn" width="44" height="44"></a>
-            </li>
-        </ul>
+            <ul>
+                <li>
+                    <a href="#"><img src="./images/Ellipse-3.svg" alt="Instagram" width="44" height="44"></a>
+                </li>
+                <li>
+                    <a href="#"><img src="./images/Ellipse-4.svg" alt="Twitter" width="44" height="44"></a>
+                </li>
+                <li>
+                    <a href="#"><img src="./images/Ellipse-5.svg" alt="Facebook" width="44" height="44"></a>
+                </li>
+                <li>
+                    <a href="#"><img src="./images/Ellipse-6.svg" alt="LinkedIn" width="44" height="44"></a>
+                </li>
+            </ul>
     </footer>
 
-
+    
 </body>
-
 </html>
